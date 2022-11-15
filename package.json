@@ -1,5 +1,6 @@
 {
-	"name": "dharm",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Dharm Vashisth",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
